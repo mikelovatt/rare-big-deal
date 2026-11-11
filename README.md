@@ -339,13 +339,13 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 📨 | [Pipefire](https://pipefire.ai) | Done-for-you cold email for agencies. We buy and warm your domains and mailboxes, find the prospects, write the emails, and you approve every reply. | **$100 OFF** your first month with code **BF100** (Standard, Pro and Scale plans) | 2026-12-03 |
+| 📨 | [Pipefire](https://pipefire.ai) | Cold email software for agencies. Pipefire buys and warms your sending domains, finds and verifies prospects, writes the emails and sorts the replies. You approve every email in your own dashboard. | **$100 OFF** your first month with code **BF100** (Standard, Pro and Scale plans) | 2026-12-03 |
 
 ### Email Marketing
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 📨 | [Pipefire](https://pipefire.ai) | Done-for-you cold email for agencies. We buy and warm your domains and mailboxes, find the prospects, write the emails, and you approve every reply. | **$100 OFF** your first month with code **BF100** (Standard, Pro and Scale plans) | 2026-12-03 |
+| 📨 | [Pipefire](https://pipefire.ai) | Cold email software for agencies. Pipefire buys and warms your sending domains, finds and verifies prospects, writes the emails and sorts the replies. You approve every email in your own dashboard. | **$100 OFF** your first month with code **BF100** (Standard, Pro and Scale plans) | 2026-12-03 |
 
 
 ### Content Creation
